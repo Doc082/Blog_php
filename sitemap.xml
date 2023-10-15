@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9&#13;&#10;            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>http://scimmiettapsicopatica.altervista.org</loc>
+    <lastmod>2018-05-01</lastmod>
+    <priority>1.00</priority>
+    <image:image>
+      <image:loc>http://scimmiettapsicopatica.altervista.org/images/titolo_tramonto.jpg</image:loc>
+      <image:caption><![CDATA[Scimmietta pSiCoPaTiCa - titolo]]></image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://scimmiettapsicopatica.altervista.org/fdasfdsf</loc>
+    <lastmod>2018-04-18</lastmod>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>http://scimmiettapsicopatica.altervista.org/images/1053329409-imm003.jpg</image:loc>
+      <image:caption><![CDATA[fdasfdsf]]></image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://scimmiettapsicopatica.altervista.org/boom-boom</loc>
+    <lastmod>2018-04-15</lastmod>
+    <priority>0.80</priority>
+    <image:image>
+      <image:loc>http://scimmiettapsicopatica.altervista.org/images/IMG_0771.PNG</image:loc>
+      <image:caption><![CDATA[boom boom]]></image:caption>
+    </image:image>
+  </url>
+</urlset>
